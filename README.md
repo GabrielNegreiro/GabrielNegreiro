@@ -28,4 +28,5 @@
   <a href="https://www.instagram.com/gabriel.negreiros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-negreiros-71b483300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GabrielNegreiro/GabrielNegreiro/blob/output/github-contribution-grid-snake.svg)
+ 
+  ![snake gif](https://github.com/GabrielNegreiro/GabrielNegreiro/blob/output/github-contribution-grid-snake.svg)
