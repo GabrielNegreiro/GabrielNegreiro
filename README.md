@@ -1,7 +1,6 @@
 ## Ola mundo 👋
 
 - 🔭 Atualmente cursando Sistema de informação(UFPI)
-- 🖥️ Estudando Django
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
