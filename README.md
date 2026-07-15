@@ -23,4 +23,4 @@
  
  ## 🐍 Minhas contribuições
 
-![Snake animation](https://github.com/GabrielNegreiro/GabrielNegreiro/blob/output/github-contribution-grid-snake.svg)
+![Snake Dark](https://github.com/GabrielNegreiro/GabrielNegreiro/blob/output/github-contribution-grid-snake-dark.svg)
