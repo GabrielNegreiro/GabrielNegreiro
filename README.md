@@ -21,4 +21,6 @@
   <a href="https://www.linkedin.com/in/gabriel-negreiros-71b483300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-  ![snake gif](https://github.com/GabrielNegreiro/GabrielNegreiro/blob/output/github-contribution-grid-snake.svg)
+ ## 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/GabrielNegreiro/blob/output/github-contribution-grid-snake.svg)
